@@ -1,1 +1,6 @@
-##include <std.io>
+#include <stdio.h>
+
+int main() {
+  printf("Oi\n" );
+  return 0;
+}
